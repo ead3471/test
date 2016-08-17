@@ -17,7 +17,7 @@ import com.sun.javafx.scene.traversal.WeightedClosestCorner;
 
 
 public class Graph<T> {
-
+//some test for git
     static Integer vertexCount=1;
     
     public Graph() {
