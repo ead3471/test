@@ -5,6 +5,7 @@ public class InnerClass {
     private String runNow()
     {
 	
+	
 	return "Outer";
     }
     
